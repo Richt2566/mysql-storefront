@@ -6,15 +6,35 @@ This repository contains the user friendly node application that allows users to
 
 * BamazonCustomer.js performs the following:
     * Shows the user the products for sale in mySQL database.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/customerScreenshots/01.png)
+
+
     * Allows user to pick an item to purchase.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/customerScreenshots/02.png)
+
+
     * Allows the user to pick a quantity to purchase.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/customerScreenshots/03.png)
+
+
     * Gives the total cost of purchase.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/customerScreenshots/04.png)
+
+
     * Does not allow the user to order stock that is not available.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/customerScreenshots/06.png)
+
+
 
 * BamazonManager.js performs the following:
     * Asks the manager to pick what they would like to do between four options.
