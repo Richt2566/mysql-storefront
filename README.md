@@ -16,6 +16,9 @@ This repository contains the user friendly node application that allows users to
     * Allows the manager to add stock to any item in the database.
     * Allows the manager to submit an additional item to start selling.
 
+* Screenshot Process
+![alt text](customerScreenshots/01.png?raw=true “first”)
+
 ## Built With
 
 * Javascript
