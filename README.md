@@ -16,8 +16,9 @@ This repository contains the user friendly node application that allows users to
     * Allows the manager to add stock to any item in the database.
     * Allows the manager to submit an additional item to start selling.
 
-* Screenshot Process
-![ScreenShot](https://raw.github.com/{Richt2566}/{mysql-storefront}/{master}/{../CustomerScreenshots/01.png})
+* Screenshot Process:
+    * ![ScreenShot](https://raw.github.com/{Richt2566}/{mysql-storefront}/{master}/{../CustomerScreenshots/01.png})
+    * ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/01.png)
 
 ## Built With
 
