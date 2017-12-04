@@ -17,7 +17,7 @@ This repository contains the user friendly node application that allows users to
     * Allows the manager to submit an additional item to start selling.
 
 * Screenshot Process
-![alt text](customerScreenshots/01.png?raw=true “first”)
+![ScreenShot](https://raw.github.com/{Richt2566}/{mysql-storefront}/{master}/{CustomerScreenshots/01.png})
 
 ## Built With
 
