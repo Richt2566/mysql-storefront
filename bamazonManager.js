@@ -75,7 +75,25 @@ function addToInventory(){
     		addStock(1);
     	} else if (data.action === "2"){
     		addStock(2);
-    	}
+    	} else if (data.action === "3"){
+            addStock(3);
+        } else if (data.action === "4"){
+            addStock(4);
+        } else if (data.action === "5"){
+            addStock(5);
+        } else if (data.action === "6"){
+            addStock(6);
+        } else if (data.action === "7"){
+            addStock(7);
+        } else if (data.action === "8"){
+            addStock(8);
+        } else if (data.action === "9"){
+            addStock(9);
+        } else if (data.action === "10"){
+            addStock(10);
+        } else {
+            addStock(data.action);
+        }
 
 	});
 }
