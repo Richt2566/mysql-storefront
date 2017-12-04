@@ -38,16 +38,38 @@ This repository contains the user friendly node application that allows users to
 
 * BamazonManager.js performs the following:
     * Asks the manager to pick what they would like to do between four options.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/01.png)
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/02.png)
+
+
     * Allows the manager to view low inventory.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/03.png)
+
+
     * Allows the manager to add stock to any item in the database.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/04.png)
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/05.png)
+
+
     * Allows the manager to submit an additional item to start selling.
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/06.png)
+
+
     ![alt text](https://raw.githubusercontent.com/Richt2566/mysql-storefront/master/assets/images/managerScreenshots/07.png)
+
+
 
 ## Built With
 
