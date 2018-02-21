@@ -25,7 +25,6 @@ function selectAll(){
 
 		askCustomer();
 	});
-
 }
 
 function askCustomer(){
